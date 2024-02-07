@@ -1,0 +1,8 @@
+{
+  "name": "softwarelandnode",
+  "logo": "https://r.resimlink.com/6dABrz4.png", 
+  "rpc_url": "http://34.38.96.199:9944",
+  "explorer_url": "http://34.38.96.199:4000",
+  "metrics_endpoint": "http://34.38.96.199:9615/metrics",
+  "id": "cad49e58-454a-496d-8a2c-dcbcf81e9f5d"
+}
